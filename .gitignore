@@ -1,1 +1,2 @@
-*.o       # archivos objeto
+#Excluir todos los ejecutables
+*.o *.out 
